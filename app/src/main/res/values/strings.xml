@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eureka</string>
+    <string name="confirm">Ok</string>
+    <string name="remove">Remove</string>
+    <string name="win">You are winner!</string>
+    <string name="lose">You are loser!</string>
+    <string name="game_over">Game over!</string>
+    <string name="new_game">New game</string>
+    <string name="exit">Exit</string>
+    <string name="play_button">Play</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">Menu</string>
+    <string name="ok">OK</string>
+    <string name="choose_your_colors">Choose your colors</string>
+    <string name="choose_colors">Choose Colors</string>
+
+</resources>
